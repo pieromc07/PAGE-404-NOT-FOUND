@@ -28,10 +28,10 @@
 
 ## Overview
 
-![screenshot](/img/page.png)
+![screenshot](./img/page.png)
 
 ## Contact
 
-- Website [your-website.com](https://pieromc.vercel.app/)
-- GitHub [@your-username](https://github.com/pieromc07)
+- Website [Mi Porfolio](https://pieromc.vercel.app/)
+- GitHub [PieroMC](https://github.com/pieromc07)
 
